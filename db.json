@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Product 1234",
+      "price": 23,
+      "rate": 4.5,
+      "picture": "https://letsenhance.io/static/73136da51c245e80edc6ccfe44888a99/1015f/MainBefore.jpg"
+    },
+    {
+      "id": "221e",
+      "title": "asd",
+      "price": 213,
+      "rate": 2,
+      "picture": "https://letsenhance.io/static/73136da51c245e80edc6ccfe44888a99/1015f/MainBefore.jpg"
+    },
+    {
+      "id": "e989",
+      "title": "wqeqwe",
+      "price": 234,
+      "rate": 3,
+      "picture": "https://letsenhance.io/static/73136da51c245e80edc6ccfe44888a99/1015f/MainBefore.jpg"
+    }
+  ]
+}
